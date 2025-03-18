@@ -1,5 +1,5 @@
 # KeepAlive
-Quick and dirty Python Interpreter speed hack for XBMC4Xbox. Uses a LOT of RAM as the interpreter will always be on, recommended only for 128MB Xbox systems!
+Quick and dirty Python interpreter speed hack for XBMC4Xbox. Speeds up script/addon loading time by not waiting for the interpreter to load each time. Uses a LOT of RAM, recommended only for 128MB Xbox systems!
 
 ## How To Install
 - Copy to "Q:/scripts/KeepAlive"
